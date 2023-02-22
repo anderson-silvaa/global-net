@@ -11,6 +11,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar navbar 
 - [X] Criar dropdown com lista de bairros que atende
 - [X] Criar botão com link para whatsapp
+- [] Criar carrossel com divulgação da empresa e planos
 - [] Criar a primeira seção com os cards dos planos 
 - [] Criar segunda seção com propagando da empresa
 - [] Criar terceira seção: dúvidas

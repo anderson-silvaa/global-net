@@ -8,7 +8,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Importar fontes
 - [X] Criar estrutura inicial do html
 - [] Criar root com as cores
-- [] Criar navbar 
+- [X] Criar navbar 
 - [X] Criar dropdown com lista de bairros que atende
 - [] Criar botão com link para whatsapp
 - [] Criar a primeira seção com os cards dos planos 

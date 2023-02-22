@@ -4,7 +4,7 @@ Site para um possível cliente proprietário de provedor de internet.
 
 ## Tarefas 
 
-- [] Criar estrutura de pastas
+- [X] Criar estrutura de pastas
 - [] Importar fontes
 - [] Criar root com as cores
 - [] Criar navbar 

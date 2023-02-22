@@ -1,2 +1,2 @@
-# single-page-portifolio
-Portifólio para listar meus projetos realizados.
+# global-net
+Site para um possível cliente proprietário de provedor de internet. 

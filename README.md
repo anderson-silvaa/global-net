@@ -5,7 +5,7 @@ Site para um possível cliente proprietário de provedor de internet.
 ## Tarefas 
 
 - [X] Criar estrutura de pastas
-- [] Importar fontes
+- [X] Importar fontes
 - [] Criar root com as cores
 - [] Criar navbar 
 - [] Criar dropdown com lista de bairros que atende

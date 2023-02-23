@@ -15,3 +15,13 @@ body{
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 /* Fim da importação das fontes */
+
+.container__primeira__secao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 3em;
+    width: 100%;
+    background-color: #fac464;
+}

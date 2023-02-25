@@ -15,7 +15,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [] Criar carrossel com divulgação da empresa e planos
 - [X] Criar estrutura inicial da primeira secao
 - [] Criar a primeira seção com os cards dos planos 
-- [] Criar estrutura inicial segunda seção
+- [X] Criar estrutura inicial segunda seção
 - [] Criar segunda seção com propagando da empresa
 - [] Criar terceira seção: dúvidas
 - [] Criar tercera seção 1.1 - criar um detail ou dropdown para descrever as maiores dúvidas

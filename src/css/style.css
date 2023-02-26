@@ -115,3 +115,11 @@ s {
 .titulo__combo {
     font-weight: 700;
 }
+
+/* Seção 3 */
+
+.container__terceira__secao {
+    background-color: black;
+    padding: 2em;
+    color: white;
+}

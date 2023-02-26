@@ -14,7 +14,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar botão com link para whatsapp
 - [] Criar carrossel com divulgação da empresa e planos
 - [X] Criar estrutura inicial da primeira seção
-- [] Criar a primeira seção com os cards dos planos 
+- [X] Criar a primeira seção com os cards dos planos 
 - [X] Criar estrutura inicial segunda seção
 - [] Criar segunda seção com propagando da empresa
 - [X] Criar estrutura inicial da terceira seção

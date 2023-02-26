@@ -24,6 +24,8 @@ body {
     --bg-amarelo-escuro: #fac464;
     --bg-footer: #111111;
 }
+
+/* -- Seção 1 -- */
 .container__primeira__secao {
     display: flex;
     justify-content: center;
@@ -34,7 +36,7 @@ body {
     background-color: #fac464;
 }
 
-.cards__secao1 {
+.cards__secao {
     color: white;
     border-radius: 1em;
     margin-top: 2em;
@@ -98,3 +100,16 @@ s {
     transition: 0.5s;
     opacity: 0.8;
 }
+
+/* -- Seção 2 --  */
+
+.container__segunda__secao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 2em;
+    width: 100%;
+}
+
+

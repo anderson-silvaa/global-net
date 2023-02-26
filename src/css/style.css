@@ -131,6 +131,11 @@ s {
     margin-top: 3em;
 }
 
+.titulo {
+    font-weight: 700;
+    font-size: 1.7em;
+}
+
 .detalhes__duvidas {
     margin-top: 2em;
 }

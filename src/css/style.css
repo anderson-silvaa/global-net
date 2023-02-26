@@ -32,9 +32,13 @@ body{
 
 .cards__secao1 {
     color: white;
-    background-color: black;
     border-radius: 1em;
     margin-top: 2em;
+}
+
+.caixa__card {
+    background-color: black;
+    margin-bottom: 2em;
 }
 
 .detalhes {

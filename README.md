@@ -23,7 +23,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar quarta seção: dúvidas
 - [X] Criar quarta seção 1.1 - criar um detail ou dropdown para descrever as maiores dúvidas
 - [X] Criar estrutura inicial da quinta seção
-- [] Criar quinta seção: sobre nós
+- [X] Criar quinta seção: sobre nós
 - [X] Criar estrutura inicial do footer
 - [] Criar footer com autor
 - [] Adicionar break points: 768px, 1024px 

@@ -17,7 +17,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [] Criar a primeira seção com os cards dos planos 
 - [X] Criar estrutura inicial segunda seção
 - [] Criar segunda seção com propagando da empresa
-- [] Criar estrutura inicial da terceira seção
+- [X] Criar estrutura inicial da terceira seção
 - [] Criar terceira seção: melhor opção para você
 - [] Criar estrutura inicial da quarta seção
 - [] Criar quarta seção: dúvidas

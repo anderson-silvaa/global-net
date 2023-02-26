@@ -16,6 +16,10 @@ body{
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 /* Fim da importação das fontes */
 
+:root {
+    --bg-amarelo-escuro: #fac464;
+    --bg-footer: #111111;
+}
 .container__primeira__secao {
     display: flex;
     justify-content: center;
@@ -24,4 +28,11 @@ body{
     padding: 3em;
     width: 100%;
     background-color: #fac464;
+}
+
+.cards__secao1 {
+    color: white;
+    background-color: black;
+    border-radius: 1em;
+    margin-top: 2em;
 }

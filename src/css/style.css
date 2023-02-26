@@ -50,6 +50,7 @@ body {
 .caixa__card {
     background-color: black;
     margin-bottom: 2em;
+    border-radius: 1em;
 }
 
 .span__menor {

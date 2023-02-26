@@ -123,3 +123,26 @@ s {
     padding: 2em;
     color: white;
 }
+
+/* Seção 4 */
+
+.container__quarta__secao {
+    padding: 2em;
+    margin-top: 3em;
+}
+
+.detalhes__duvidas {
+    margin-top: 2em;
+}
+
+.detalhes-- {
+    margin-top: 1em;
+    background-color: black;
+    color: white;
+    border-radius: 0.3em;
+    padding: 1em;
+}
+
+.descricao__detail {
+    margin-top: 2em;
+}

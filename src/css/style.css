@@ -221,7 +221,11 @@ footer {
         margin-bottom: 5em;
     }
 
-    .detalhes-- {
+    .detalhes {
         margin-top: 4em;
+    }
+
+    .detalhe--destaque {
+        margin-top: 0;
     }
 }

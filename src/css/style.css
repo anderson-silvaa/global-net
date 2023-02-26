@@ -165,3 +165,10 @@ s {
     font-size: 1.7em;
 }
 
+/* Footer */ 
+
+footer {
+    background-color: var(--bg-footer);
+    color: white;
+    padding: 2em;
+}

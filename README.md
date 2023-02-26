@@ -25,6 +25,6 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar estrutura inicial da quinta seção
 - [X] Criar quinta seção: sobre nós
 - [X] Criar estrutura inicial do footer
-- [] Criar footer com autor
+- [X] Criar footer com autor
 - [] Adicionar break points: 768px, 1024px 
 

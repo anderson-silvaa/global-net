@@ -146,3 +146,11 @@ s {
 .descricao__detail {
     margin-top: 2em;
 }
+
+/* Seção 5 */
+
+.container__quinta__secao {
+    background-color: var(--bg-amarelo-escuro);
+    padding: 2em;
+}
+

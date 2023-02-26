@@ -45,6 +45,15 @@ body {
     margin-bottom: 2em;
 }
 
+.span__menor {
+    font-size: 0.4em;
+}
+
+.span__maior {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
 .detalhes {
     color: black !important;
     margin-top: 0.5em;

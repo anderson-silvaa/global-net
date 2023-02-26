@@ -112,4 +112,6 @@ s {
     width: 100%;
 }
 
-
+.titulo__combo {
+    font-weight: 700;
+}

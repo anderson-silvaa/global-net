@@ -228,4 +228,11 @@ footer {
     .detalhe--destaque {
         margin-top: 0;
     }
+
+    img {
+        margin-left: 1em;
+    }
+    .nav {
+        margin-left: 63vw ;
+    }
 }

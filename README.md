@@ -18,7 +18,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar estrutura inicial segunda seção
 - [] Criar segunda seção com propagando da empresa
 - [X] Criar estrutura inicial da terceira seção
-- [] Criar terceira seção: melhor opção para você
+- [X] Criar terceira seção: melhor opção para você
 - [X] Criar estrutura inicial da quarta seção
 - [] Criar quarta seção: dúvidas
 - [X] Criar quarta seção 1.1 - criar um detail ou dropdown para descrever as maiores dúvidas

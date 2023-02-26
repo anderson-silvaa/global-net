@@ -40,6 +40,13 @@ body {
     margin-top: 2em;
 }
 
+.melhor__oferta {
+    background: black;
+    padding: 0.5em;
+    border-radius: 0.5em 0.5em 0 0;
+    font-weight: 600;
+}
+
 .caixa__card {
     background-color: black;
     margin-bottom: 2em;

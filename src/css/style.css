@@ -16,6 +16,10 @@ body{
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 /* Fim da importação das fontes */
 
+body {
+    font-family: 'Open Sans', sans-serif ;
+}
+
 :root {
     --bg-amarelo-escuro: #fac464;
     --bg-footer: #111111;

@@ -92,3 +92,9 @@ s {
     cursor: pointer;
 }
 
+.btn__contratar:hover {
+    background-color: white;
+    border: none;
+    transition: 0.5s;
+    opacity: 0.8;
+}

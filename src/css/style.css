@@ -54,6 +54,14 @@ body {
     font-weight: 700;
 }
 
+s {
+    text-decoration: line-through;
+}
+
+.preco {
+    font-size: 2em;
+}
+
 .detalhes {
     color: black !important;
     margin-top: 0.5em;

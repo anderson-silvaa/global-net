@@ -7,7 +7,7 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar estrutura de pastas
 - [X] Importar fontes
 - [X] Criar estrutura inicial do html
-- [] Criar root com as cores
+- [X] Criar root com as cores
 - [X] Adicionar logo ao header
 - [X] Criar navbar 
 - [X] Criar dropdown com lista de bairros que atende

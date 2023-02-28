@@ -12,7 +12,6 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar navbar 
 - [X] Criar dropdown com lista de bairros que atende
 - [X] Criar botão com link para whatsapp
-- [] Criar carrossel com divulgação da empresa e planos
 - [X] Criar estrutura inicial da primeira seção
 - [X] Criar a primeira seção com os cards dos planos 
 - [X] Criar estrutura inicial segunda seção
@@ -27,3 +26,8 @@ Site para um possível cliente proprietário de provedor de internet.
 - [X] Criar estrutura inicial do footer
 - [X] Criar footer com autor
 - [X] Adicionar breakpoints versão desktop: 992px 
+
+
+## Extra
+
+- [ ] Criar carrossel com divulgação da empresa e planos

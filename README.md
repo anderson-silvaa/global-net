@@ -1,6 +1,29 @@
 # global-net
 Site para um possível cliente proprietário de provedor de internet. 
 
+## Preview 
+
+<p align="center">
+	<img  src="src/img-preview/gn-1.png">
+</p>
+
+<p align="center">
+	<img  src="src/img-preview/gn-2.png">
+</p>
+
+<p align="center">
+	<img " src="src/img-preview/gn-3.png">
+</p>
+
+<p align="center">
+	<img  src="src/img-preview/gn-4.png">
+</p>
+
+<p align="center">
+	<img  src="src/img-preview/gn-5.png">
+</p>
+
+
 
 ## Tarefas 
 

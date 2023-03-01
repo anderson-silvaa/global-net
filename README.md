@@ -54,3 +54,6 @@ Site para um possível cliente proprietário de provedor de internet.
 ## Extra
 
 - [ ] Criar carrossel com divulgação da empresa e planos
+
+## Autor 
+Anderson Silva

@@ -57,3 +57,6 @@ Site para um possível cliente proprietário de provedor de internet.
 
 ## Autor 
 Anderson Silva
+
+## Deploy
+https://global-net.vercel.app/
